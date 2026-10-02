@@ -62,6 +62,8 @@ Spoofed fingerprint values should be internally consistent (e.g., the GPU render
 
 ## Resources
 
+- [TrueProxies proxy formats](https://github.com/trueproxies-com/proxy-formats) — MIT TypeScript library and stdin CLI for local proxy import formatting for twelve browsers; includes limited sanitized native-browser observations. No network calls.
+
 - [Electronic Frontier Foundation — Panopticlick](https://panopticlick.eff.org/) — Research on browser fingerprinting
 - [W3C Fingerprinting Guidance](https://w3c.github.io/fingerprinting-guidance/) — Standards perspective on fingerprinting
 - [Tor Browser Design Document](https://2019.www.torproject.org/projects/torbrowser/design/) — Approach to fingerprinting resistance
